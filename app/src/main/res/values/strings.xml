@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bit Gallery</string>
+    <string name="add_photos">Add Photos</string>
+    <string name="add_an_event_picture">Add an event picture</string>
+    <string name="no_photos">No Photos</string>
+    <string name="view">(View)</string>
+</resources>
